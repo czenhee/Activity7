@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\bin\Release\net6.0-windows\Activity7.exe
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\bin\Release\net6.0-windows\Activity7.deps.json
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\bin\Release\net6.0-windows\Activity7.runtimeconfig.json
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\bin\Release\net6.0-windows\Activity7.dll
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\bin\Release\net6.0-windows\Activity7.pdb
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.Form1.resources
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.dll
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\refint\Activity7.dll
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.pdb
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\Activity7.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\EDP\Activity7\Activity7\obj\Release\net6.0-windows\ref\Activity7.dll
